@@ -1,1 +1,1 @@
-When initializng database comment out foreign keys to run CRUD. (Do not do this for SIMPLE/COMPLEX)
+When initializng database comment out (LINE 150 to 167) foreign keys in file 'initializeDB'. (Do not do this for SIMPLE/COMPLEX)
