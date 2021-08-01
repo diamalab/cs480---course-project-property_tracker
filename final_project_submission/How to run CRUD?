@@ -1,0 +1,1 @@
+When initializng database comment out foreign keys to run CRUD. (Do not do this for SIMPLE/COMPLEX)
